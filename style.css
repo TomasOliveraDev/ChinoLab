@@ -1,0 +1,56 @@
+/* GENERAL */
+body {
+    background-color: white;
+    color: black;
+    margin: 0 auto;
+}
+hr {
+    margin: 0 auto;
+    /* max-width: 80%; */
+    margin: 1rem;
+}
+/* NAVBAR */
+
+/* MAIN */
+
+/* CAROUSEL */
+
+.carousel-img {
+    width: auto;
+    height: 512px;
+}
+
+/* UNIDADES */
+.unidad {
+    background-color: black;
+    color: white;
+    padding: 4px;
+}
+.unidad-img {
+    max-width: 256px;
+    max-height: auto;
+    border-radius: 8px;
+}
+.bold {
+    font-weight: bold;
+}
+.castellano {
+    color: #0dcaf0;
+}
+.descripcion-foto {
+    margin-top: 1rem!important;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/* FOOTER */
+footer {
+    padding: 1rem;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
